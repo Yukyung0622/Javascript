@@ -1,4 +1,4 @@
-# Javascript
+# Javascript <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 * Sub1. HelloWorld
   - HelloWorld
 * Sub2. 기본문법
