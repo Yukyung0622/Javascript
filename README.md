@@ -10,7 +10,7 @@
 * Sub5. jQuery기초
   - jQuery기초, jQuery선택자
 * Sub6. jQuery함수
-  -jQuery선택함수, jQuery클래스함수, jQuery기타함수
+  - jQuery선택함수, jQuery클래스함수, jQuery기타함수
 * Sub7.jQuery이벤트
   - jQuery이벤트, jQuery이벤트종류, 이벤트객체, Window이벤트
 * Sub8. jQuery애니메이션
